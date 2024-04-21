@@ -38,7 +38,7 @@ This project tries to analyze factors that affect Customer Purchases Behaviour. 
 
 # Results
 
-Results of project is discussed in medium post.
+Results of project is discussed in [medium post](https://medium.com/@muradtt011/features-of-customer-on-purchases-behaviour-2b9811a04e9f).
 
 # Acknowledgments
 
