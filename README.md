@@ -29,8 +29,11 @@ Jupyter Notebook to show impacts of various factors on Customer Purchases Behavi
 This project tries to analyze factors that affect Customer Purchases Behaviour. It answers below questions:
 
 1.How level of education affects Customer Purchases Behaviour?
+
 2.Which region stands out the most in Customer Purchases Behaviour?
+
 3.What kind of products do buyers prefer?
+
 4.Which gender members do more shopping?
 
 # Results
